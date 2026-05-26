@@ -44,3 +44,6 @@ classic/
 desert
 
 Blade.sh
+
+# vscode settings
+.vscode/
