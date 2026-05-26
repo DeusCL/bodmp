@@ -1,0 +1,30 @@
+import PanelFillerCommon
+
+specials["Korean"]["Amazon_N"]["Level"] = ["L.11", "L.13", "L.18", "L.15", "L.19"]
+specials["Korean"]["Amazon_N"]["Attack"] = ["공+85", "공+30", "공+60", "공+50", "공+300"]
+specials["Korean"]["Amazon_N"]["Title"] = PanelFillerCommon.GetSpecialAmzTitle()
+specials["Korean"]["Dwarf_N"]["Level"] = ["L.11", "L.13", "L.17", "L.18", "L.19"]
+specials["Korean"]["Dwarf_N"]["Attack"] = ["공+85", "공+25", "공+50", "공+40", "공+300"]
+specials["Korean"]["Dwarf_N"]["Title"] = PanelFillerCommon.GetSpecialDwfTitle()
+specials["Korean"]["Barbarian_N"]["Level"] = ["L.11", "L.13", "L.13", "L.19"]
+specials["Korean"]["Barbarian_N"]["Attack"] = ["공+85", "공+50", "공+30", "공+300"]
+specials["Korean"]["Barbarian_N"]["Title"] = PanelFillerCommon.GetSpecialBarbTitle()
+specials["Korean"]["Knight_N"]["Level"] = ["L.11", "L.13", "L.18", "L.19"]
+specials["Korean"]["Knight_N"]["Attack"] = ["공+85", "공+35", "공+45", "공+300"]
+specials["Korean"]["Knight_N"]["Title"] = PanelFillerCommon.GetSpecialKgtTitle()
+specials["Korean"]["Amazon_N"]["Descr2"] = ["-1", "-1", "-1", "-1", "공격2: 여신의 분노"]
+specials["Korean"]["Amazon_N"]["Level2"] = ["-1", "-1", "-1", "-1", "L.20"]
+specials["Korean"]["Amazon_N"]["Descr"] = ["공격: 뱀파이어 공격", "공격: 얼음 공격", "공격: 죽음의 숨결", "공격: 용의 원", "공격: 이안나의 빛"]
+specials["Korean"]["Amazon_N"]["Defense"] = ["방-35", "방-20", "방-50", "방-30", "방-5"]
+specials["Korean"]["Dwarf_N"]["Descr2"] = ["-1", "-1", "-1", "-1", "공격2: 여신의 분노"]
+specials["Korean"]["Dwarf_N"]["Level2"] = ["-1", "-1", "-1", "-1", "L.20"]
+specials["Korean"]["Dwarf_N"]["Descr"] = ["공격: 뱀파이어 공격", "공격: 얼음 공격", "공격: 뱀의 숨결", "공격: 불타는 분노", "공격: 이안나의 빛"]
+specials["Korean"]["Dwarf_N"]["Defense"] = ["방-35", "방-60", "방-90", "방-100", "방-5"]
+specials["Korean"]["Barbarian_N"]["Descr2"] = ["-1", "공격2: 화산", "-1", "공격2: 여신의 분노"]
+specials["Korean"]["Barbarian_N"]["Level2"] = ["-1", "L.18", "-1", "L.20"]
+specials["Korean"]["Barbarian_N"]["Descr"] = ["공격: 뱀파이어 공격", "공격: 화염 폭풍", "공격: 동상", "공격: 이안나의 빛"]
+specials["Korean"]["Barbarian_N"]["Defense"] = ["방-35", "방-10", "방-10", "방-5"]
+specials["Korean"]["Knight_N"]["Descr2"] = ["-1", "-1", "-1", "공격2: 여신의 분노"]
+specials["Korean"]["Knight_N"]["Level2"] = ["-1", "-1", "-1", "L.20"]
+specials["Korean"]["Knight_N"]["Descr"] = ["공격: 뱀파이어 공격", "공격: 불의 나선", "공격: 북쪽의 빛", "공격: 이안나의 빛"]
+specials["Korean"]["Knight_N"]["Defense"] = ["방-35", "방-25", "방-15", "방-5"]

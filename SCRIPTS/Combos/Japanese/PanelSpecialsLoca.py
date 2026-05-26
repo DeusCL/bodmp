@@ -1,0 +1,30 @@
+import PanelFillerCommon
+
+specials["Japanese"]["Amazon_N"]["Level"] = ["Lv11", "Lv13", "Lv18", "Lv15", "Lv19"]
+specials["Japanese"]["Amazon_N"]["Attack"] = ["攻+85", "攻+30", "攻+60", "攻+50", "攻+300"]
+specials["Japanese"]["Amazon_N"]["Title"] = PanelFillerCommon.GetSpecialAmzTitle()
+specials["Japanese"]["Dwarf_N"]["Level"] = ["Lv11", "Lv13", "Lv17", "Lv18", "Lv19"]
+specials["Japanese"]["Dwarf_N"]["Attack"] = ["攻+85", "攻+25", "攻+50", "攻+40", "攻+300"]
+specials["Japanese"]["Dwarf_N"]["Title"] = PanelFillerCommon.GetSpecialDwfTitle()
+specials["Japanese"]["Barbarian_N"]["Level"] = ["Lv11", "Lv13", "Lv13", "Lv19"]
+specials["Japanese"]["Barbarian_N"]["Attack"] = ["攻+85", "攻+50", "攻+30", "攻+300"]
+specials["Japanese"]["Barbarian_N"]["Title"] = PanelFillerCommon.GetSpecialBarbTitle()
+specials["Japanese"]["Knight_N"]["Level"] = ["Lv11", "Lv13", "Lv18", "Lv19"]
+specials["Japanese"]["Knight_N"]["Attack"] = ["攻+85", "攻+35", "攻+45", "攻+300"]
+specials["Japanese"]["Knight_N"]["Title"] = PanelFillerCommon.GetSpecialKgtTitle()
+specials["Japanese"]["Amazon_N"]["Descr2"] = ["-1", "-1", "-1", "-1", "攻撃2：女神の怒り"]
+specials["Japanese"]["Amazon_N"]["Level2"] = ["-1", "-1", "-1", "-1", "Lv20"]
+specials["Japanese"]["Amazon_N"]["Descr"] = ["攻撃：吸血攻撃", "攻撃：氷の一撃", "攻撃：死の息", "攻撃：ドラゴンの輪", "攻撃：イアンナの光"]
+specials["Japanese"]["Amazon_N"]["Defense"] = ["防-35", "防-20", "防-50", "防-30", "防-5"]
+specials["Japanese"]["Dwarf_N"]["Descr2"] = ["-1", "-1", "-1", "-1", "攻撃2：女神の怒り"]
+specials["Japanese"]["Dwarf_N"]["Level2"] = ["-1", "-1", "-1", "-1", "Lv20"]
+specials["Japanese"]["Dwarf_N"]["Descr"] = ["攻撃：吸血攻撃", "攻撃：氷の一撃", "攻撃：大蛇の息", "攻撃：怒りの炎", "攻撃：イアンナの光"]
+specials["Japanese"]["Dwarf_N"]["Defense"] = ["防-35", "防-60", "防-90", "防-100", "防-5"]
+specials["Japanese"]["Barbarian_N"]["Descr2"] = ["-1", "攻撃2：火山", "-1", "攻撃2：女神の怒り"]
+specials["Japanese"]["Barbarian_N"]["Level2"] = ["-1", "Lv18", "-1", "Lv20"]
+specials["Japanese"]["Barbarian_N"]["Descr"] = ["攻撃：吸血攻撃", "攻撃：ファイアストーム", "攻撃：凍傷", "攻撃：イアンナの光"]
+specials["Japanese"]["Barbarian_N"]["Defense"] = ["防-35", "防-10", "防-10", "防-5"]
+specials["Japanese"]["Knight_N"]["Descr2"] = ["-1", "-1", "-1", "攻撃2：女神の怒り"]
+specials["Japanese"]["Knight_N"]["Level2"] = ["-1", "-1", "-1", "Lv20"]
+specials["Japanese"]["Knight_N"]["Descr"] = ["攻撃：吸血攻撃", "攻撃：炎の螺旋", "攻撃：オーロラ", "攻撃：イアンナの光"]
+specials["Japanese"]["Knight_N"]["Defense"] = ["防-35", "防-25", "防-15", "防-5"]

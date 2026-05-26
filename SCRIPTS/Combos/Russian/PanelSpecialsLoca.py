@@ -1,0 +1,30 @@
+import PanelFillerCommon
+
+specials["Russian"]["Amazon_N"]["Level"] = ["УР.11", "УР.13", "УР.18", "УР.15", "УР.19"]
+specials["Russian"]["Amazon_N"]["Attack"] = ["+85 А", "+30 А", "+60 А", "+50 А", "+300 А"]
+specials["Russian"]["Amazon_N"]["Title"] = PanelFillerCommon.GetSpecialAmzTitle()
+specials["Russian"]["Dwarf_N"]["Level"] = ["УР.11", "УР.13", "УР.17", "УР.18", "УР.19"]
+specials["Russian"]["Dwarf_N"]["Attack"] = ["+85 А", "+25 А", "+50 А", "+40 А", "+300 А"]
+specials["Russian"]["Dwarf_N"]["Title"] = PanelFillerCommon.GetSpecialDwfTitle()
+specials["Russian"]["Barbarian_N"]["Level"] = ["УР.11", "УР.13", "УР.13", "УР.19"]
+specials["Russian"]["Barbarian_N"]["Attack"] = ["+85 А", "+50 А", "+30 А", "+300 А"]
+specials["Russian"]["Barbarian_N"]["Title"] = PanelFillerCommon.GetSpecialBarbTitle()
+specials["Russian"]["Knight_N"]["Level"] = ["УР.11", "УР.13", "УР.18", "УР.19"]
+specials["Russian"]["Knight_N"]["Attack"] = ["+85 А", "+35 А", "+45 А", "+300 А"]
+specials["Russian"]["Knight_N"]["Title"] = PanelFillerCommon.GetSpecialKgtTitle()
+specials["Russian"]["Amazon_N"]["Descr2"] = ["-1", "-1", "-1", "-1", "Атака 2: СВЕТ ИАННЫ"]
+specials["Russian"]["Amazon_N"]["Level2"] = ["-1", "-1", "-1", "-1", "УР.20"]
+specials["Russian"]["Amazon_N"]["Descr"] = ["Атака: АТАКА ВАМПИРА", "Атака: ЛЕДЯНОЙ УДАР", "Атака: ДЫХАНИЕ СМЕРТИ", "Атака: КРУГ ДРАКОНА", "Атака: ГНЕВ БОГИНИ"]
+specials["Russian"]["Amazon_N"]["Defense"] = ["-35 Зщ", "-20 Зщ", "-50 Зщ", "-30 Зщ", "-5 Зщ"]
+specials["Russian"]["Dwarf_N"]["Descr2"] = ["-1", "-1", "-1", "-1", "Атака 2: СВЕТ ИАННЫ"]
+specials["Russian"]["Dwarf_N"]["Level2"] = ["-1", "-1", "-1", "-1", "УР.20"]
+specials["Russian"]["Dwarf_N"]["Descr"] = ["Атака: АТАКА ВАМПИРА", "Атака: ЛЕДЯНОЙ УДАР", "Атака: ДЫХАНИЕ ЗМЕЯ", "Атака: ПЛАМЯ ЯРОСТИ", "Атака: ГНЕВ БОГИНИ"]
+specials["Russian"]["Dwarf_N"]["Defense"] = ["-35 Зщ", "-60 Зщ", "-90 Зщ", "-100 Зщ", "-5 Зщ"]
+specials["Russian"]["Barbarian_N"]["Descr2"] = ["-1", "Атака 2: ВУЛКАН", "-1", "Атака 2: СВЕТ ИАННЫ"]
+specials["Russian"]["Barbarian_N"]["Level2"] = ["-1", "УР.18", "-1", "УР.20"]
+specials["Russian"]["Barbarian_N"]["Descr"] = ["Атака: АТАКА ВАМПИРА", "Атака: ОГНЕННЫЙ ШТОРМ", "Атака: ЛЕДЕНЯЩИЙ УДАР", "Атака: ГНЕВ БОГИНИ"]
+specials["Russian"]["Barbarian_N"]["Defense"] = ["-35 Зщ", "-10 Зщ", "-10 Зщ", "-5 Зщ"]
+specials["Russian"]["Knight_N"]["Descr2"] = ["-1", "-1", "-1", "Атака 2: СВЕТ ИАННЫ"]
+specials["Russian"]["Knight_N"]["Level2"] = ["-1", "-1", "-1", "УР.20"]
+specials["Russian"]["Knight_N"]["Descr"] = ["Атака: АТАКА ВАМПИРА", "Атака: ОГНЕННАЯ СПИРАЛЬ", "Атака: СЕВЕРНОЕ СИЯНИЕ", "Атака: ГНЕВ БОГИНИ"]
+specials["Russian"]["Knight_N"]["Defense"] = ["-35 Зщ", "-25 Зщ", "-15 Зщ", "-5 Зщ"]

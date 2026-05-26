@@ -1,0 +1,30 @@
+import PanelFillerCommon
+
+specials["Chinese"]["Amazon_N"]["Level"] = ["等级11", "等级13", "等级18", "等级15", "等级19"]
+specials["Chinese"]["Amazon_N"]["Attack"] = ["攻击力+85", "攻击力+30", "攻击力+60", "攻击力+50", "攻击力+300"]
+specials["Chinese"]["Amazon_N"]["Title"] = PanelFillerCommon.GetSpecialAmzTitle()
+specials["Chinese"]["Dwarf_N"]["Level"] = ["等级11", "等级13", "等级17", "等级18", "等级19"]
+specials["Chinese"]["Dwarf_N"]["Attack"] = ["+85攻击力", "+25攻击力", "+50攻击力", "+40攻击力", "+300攻击力"]
+specials["Chinese"]["Dwarf_N"]["Title"] = PanelFillerCommon.GetSpecialDwfTitle()
+specials["Chinese"]["Barbarian_N"]["Level"] = ["等级11", "等级13", "等级13", "等级19"]
+specials["Chinese"]["Barbarian_N"]["Attack"] = ["+85攻击力", "+50攻击力", "+30攻击力", "+300攻击力"]
+specials["Chinese"]["Barbarian_N"]["Title"] = PanelFillerCommon.GetSpecialBarbTitle()
+specials["Chinese"]["Knight_N"]["Level"] = ["等级11", "等级13", "等级18", "等级19"]
+specials["Chinese"]["Knight_N"]["Attack"] = ["+85攻击力", "+35攻击力", "+45攻击力", "+300攻击力"]
+specials["Chinese"]["Knight_N"]["Title"] = PanelFillerCommon.GetSpecialKgtTitle()
+specials["Chinese"]["Amazon_N"]["Descr2"] = ["-1", "-1", "-1", "-1", "攻击技2：伊安娜之光"]
+specials["Chinese"]["Amazon_N"]["Level2"] = ["-1", "-1", "-1", "-1", "等级20"]
+specials["Chinese"]["Amazon_N"]["Descr"] = ["攻击技：吸血鬼突击", "攻击技：冰力突袭", "攻击技：死亡吐息", "攻击技：游龙戏珠", "攻击技：女神之怒"]
+specials["Chinese"]["Amazon_N"]["Defense"] = ["-35防御", "-20防御", "-50防御", "-30防御", "-5防御"]
+specials["Chinese"]["Dwarf_N"]["Descr2"] = ["-1", "-1", "-1", "-1", "攻击技2：伊安娜之光"]
+specials["Chinese"]["Dwarf_N"]["Level2"] = ["-1", "-1", "-1", "-1", "等级20"]
+specials["Chinese"]["Dwarf_N"]["Descr"] = ["攻击技：吸血鬼突击", "攻击技：冰力突袭", "攻击技：蛇之吐息", "攻击技：燃烧之怒", "攻击技：女神之怒"]
+specials["Chinese"]["Dwarf_N"]["Defense"] = ["-35防御", "-60防御", "-90防御", "-100防御", "-5防御"]
+specials["Chinese"]["Barbarian_N"]["Descr2"] = ["-1", "攻击技2：火焰喷发", "-1", "攻击技2：伊安娜之光"]
+specials["Chinese"]["Barbarian_N"]["Level2"] = ["-1", "等级18", "-1", "等级20"]
+specials["Chinese"]["Barbarian_N"]["Descr"] = ["攻击技：吸血鬼突击", "攻击技：烈火风暴", "攻击技：严寒灼烧", "攻击技：女神之怒"]
+specials["Chinese"]["Barbarian_N"]["Defense"] = ["-35防御", "-10防御", "-10防御", "-5防御"]
+specials["Chinese"]["Knight_N"]["Descr2"] = ["-1", "-1", "-1", "攻击技2：伊安娜之光"]
+specials["Chinese"]["Knight_N"]["Level2"] = ["-1", "-1", "-1", "等级20"]
+specials["Chinese"]["Knight_N"]["Descr"] = ["攻击技：吸血鬼突击", "攻击技：螺旋火圈", "攻击技：北极光", "攻击技：女神之怒"]
+specials["Chinese"]["Knight_N"]["Defense"] = ["-35防御", "-25防御", "-15防御", "-5防御"]

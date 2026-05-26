@@ -1,0 +1,30 @@
+import PanelFillerCommon
+
+specials["Portugese"]["Amazon_N"]["Level"] = ["Nv.11", "Nv.13", "Nv.18", "Nv.15", "Nv.19"]
+specials["Portugese"]["Amazon_N"]["Attack"] = ["+85A", "+30A", "+60A", "+50A", "+300A"]
+specials["Portugese"]["Amazon_N"]["Title"] = PanelFillerCommon.GetSpecialAmzTitle()
+specials["Portugese"]["Dwarf_N"]["Level"] = ["Nv.11", "Nv.13", "Nv.17", "Nv.18", "Nv.19"]
+specials["Portugese"]["Dwarf_N"]["Attack"] = ["+85A", "+25A", "+50A", "+40A", "+300A"]
+specials["Portugese"]["Dwarf_N"]["Title"] = PanelFillerCommon.GetSpecialDwfTitle()
+specials["Portugese"]["Barbarian_N"]["Level"] = ["Nv.11", "Nv.13", "Nv.13", "Nv.19"]
+specials["Portugese"]["Barbarian_N"]["Attack"] = ["+85A", "+50A", "+30A", "+300A"]
+specials["Portugese"]["Barbarian_N"]["Title"] = PanelFillerCommon.GetSpecialBarbTitle()
+specials["Portugese"]["Knight_N"]["Level"] = ["Nv.11", "Nv.13", "Nv.18", "Nv.19"]
+specials["Portugese"]["Knight_N"]["Attack"] = ["+85A", "+35A", "+45A", "+300A"]
+specials["Portugese"]["Knight_N"]["Title"] = PanelFillerCommon.GetSpecialKgtTitle()
+specials["Portugese"]["Amazon_N"]["Descr2"] = ["-1", "-1", "-1", "-1", "Ataque2: IRA DA DEUSA"]
+specials["Portugese"]["Amazon_N"]["Level2"] = ["-1", "-1", "-1", "-1", "Nv.20"]
+specials["Portugese"]["Amazon_N"]["Descr"] = ["Ataque: ATAQUE VAMPÍRICO", "Ataque: GOLPE GÉLIDO", "Ataque: SUSPIRO DE MORTE", "Ataque: CÍRCULO DO DRAGÃO", "Ataque: LUZ DE IANNA"]
+specials["Portugese"]["Amazon_N"]["Defense"] = ["-35D", "-20D", "-50D", "-30D", "-5D"]
+specials["Portugese"]["Dwarf_N"]["Descr2"] = ["-1", "-1", "-1", "-1", "Ataque2: IRA DA DEUSA"]
+specials["Portugese"]["Dwarf_N"]["Level2"] = ["-1", "-1", "-1", "-1", "Nv.20"]
+specials["Portugese"]["Dwarf_N"]["Descr"] = ["Ataque: ATAQUE VAMPÍRICO", "Ataque: GOLPE GÉLIDO", "Ataque: BAFO DE SERPENTE", "Ataque: IRA INFLAMADA", "Ataque: LUZ DE IANNA"]
+specials["Portugese"]["Dwarf_N"]["Defense"] = ["-35D", "-60D", "-90D", "-100D", "-5D"]
+specials["Portugese"]["Barbarian_N"]["Descr2"] = ["-1", "Ataque2: VULCÃO", "-1", "Ataque2: IRA DA DEUSA"]
+specials["Portugese"]["Barbarian_N"]["Level2"] = ["-1", "Nv.18", "-1", "Nv.20"]
+specials["Portugese"]["Barbarian_N"]["Descr"] = ["Ataque: ATAQUE VAMPÍRICO", "Ataque: FIRE STORM", "Ataque: GELADURA", "Ataque: LUZ DE IANNA"]
+specials["Portugese"]["Barbarian_N"]["Defense"] = ["-35D", "-10D", "-10D", "-5D"]
+specials["Portugese"]["Knight_N"]["Descr2"] = ["-1", "-1", "-1", "Ataque2: IRA DA DEUSA"]
+specials["Portugese"]["Knight_N"]["Level2"] = ["-1", "-1", "-1", "Nv.20"]
+specials["Portugese"]["Knight_N"]["Descr"] = ["Ataque: ATAQUE VAMPÍRICO", "Ataque: ESPIRAL DE FOGO", "Ataque: LUZES BOREAIS", "Ataque: LUZ DE IANNA"]
+specials["Portugese"]["Knight_N"]["Defense"] = ["-35D", "-25D", "-15D", "-5D"]

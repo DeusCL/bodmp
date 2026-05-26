@@ -1,0 +1,1 @@
+buttons["Spanish"] = ["ESPECIALES", "ARMAS", "HABILIDADES", "OBJETOS", "TEXTOS", "SECRETOS"]

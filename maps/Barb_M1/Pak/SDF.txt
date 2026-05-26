@@ -1,0 +1,5 @@
+(dp0
+S'Barb_M1 intro'
+p1
+F26.6875
+s.

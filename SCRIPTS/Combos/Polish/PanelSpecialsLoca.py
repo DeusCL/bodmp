@@ -1,0 +1,30 @@
+import PanelFillerCommon
+
+specials["Polish"]["Amazon_N"]["Level"] = ["Poz. 11", "Poz. 13", "Poz. 18", "Poz. 15", "Poz. 19"]
+specials["Polish"]["Amazon_N"]["Attack"] = ["+85 А", "+30 А", "+60 А", "+50 А", "+300 А"]
+specials["Polish"]["Amazon_N"]["Title"] = PanelFillerCommon.GetSpecialAmzTitle()
+specials["Polish"]["Dwarf_N"]["Level"] = ["Poz. 11", "Poz. 13", "Poz. 17", "Poz. 18", "Poz. 19"]
+specials["Polish"]["Dwarf_N"]["Attack"] = ["+85 А", "+25 А", "+50 А", "+40 А", "+300 А"]
+specials["Polish"]["Dwarf_N"]["Title"] = PanelFillerCommon.GetSpecialDwfTitle()
+specials["Polish"]["Barbarian_N"]["Level"] = ["Poz. 11", "Poz. 13", "Poz. 13", "Poz. 19"]
+specials["Polish"]["Barbarian_N"]["Attack"] = ["+85 А", "+50 А", "+30 А", "+300 А"]
+specials["Polish"]["Barbarian_N"]["Title"] = PanelFillerCommon.GetSpecialBarbTitle()
+specials["Polish"]["Knight_N"]["Level"] = ["Poz. 11", "Poz. 13", "Poz. 18", "Poz. 19"]
+specials["Polish"]["Knight_N"]["Attack"] = ["+85 А", "+35 А", "+45 А", "+300 А"]
+specials["Polish"]["Knight_N"]["Title"] = PanelFillerCommon.GetSpecialKgtTitle()
+specials["Polish"]["Amazon_N"]["Descr2"] = ["-1", "-1", "-1", "-1", "Atak 2: GNIEW BOGINI"]
+specials["Polish"]["Amazon_N"]["Level2"] = ["-1", "-1", "-1", "-1", "Poz. 20"]
+specials["Polish"]["Amazon_N"]["Descr"] = ["Atak: ATAK WAMPIRA", "Atak: LODOWE TRAFIENIE", "Atak: ODDECH ŚMIERCI", "Atak: SMOCZY KRĄG", "Atak: ŚWIATŁO INANY"]
+specials["Polish"]["Amazon_N"]["Defense"] = ["-35 O", "-20 O", "-50 O", "-30 O", "-5 O"]
+specials["Polish"]["Dwarf_N"]["Descr2"] = ["-1", "-1", "-1", "-1", "Atak 2: GNIEW BOGINI"]
+specials["Polish"]["Dwarf_N"]["Level2"] = ["-1", "-1", "-1", "-1", "Poz. 20"]
+specials["Polish"]["Dwarf_N"]["Descr"] = ["Atak: ATAK WAMPIRA", "Atak: LODOWE TRAFIENIE", "Atak: ODDECH WĘŻA", "Atak: PŁONĄCY GNIEW", "Atak: ŚWIATŁO INANY"]
+specials["Polish"]["Dwarf_N"]["Defense"] = ["-35 O", "-60 O", "-90 O", "-100 O", "-5 O"]
+specials["Polish"]["Barbarian_N"]["Descr2"] = ["-1", "Atak 2: WULKAN", "-1", "Atak 2: GNIEW BOGINI"]
+specials["Polish"]["Barbarian_N"]["Level2"] = ["-1", "Poz. 18", "-1", "Poz. 20"]
+specials["Polish"]["Barbarian_N"]["Descr"] = ["Atak: ATAK WAMPIRA", "Atak: BURZA OGNIA", "Atak: DOTYK MROZU", "Atak: ŚWIATŁO INANY"]
+specials["Polish"]["Barbarian_N"]["Defense"] = ["-35 O", "-10 O", "-10 O", "-5 O"]
+specials["Polish"]["Knight_N"]["Descr2"] = ["-1", "-1", "-1", "Atak 2: GNIEW BOGINI"]
+specials["Polish"]["Knight_N"]["Level2"] = ["-1", "-1", "-1", "Poz. 20"]
+specials["Polish"]["Knight_N"]["Descr"] = ["Atak: ATAK WAMPIRA", "Atak: OGNISTA SPIRALA", "Atak: ZORZA POLARNA", "Atak: ŚWIATŁO INANY"]
+specials["Polish"]["Knight_N"]["Defense"] = ["-35 O", "-25 O", "-15 O", "-5 O"]
